@@ -1,7 +1,8 @@
-$(document).ready(function () {
-    // You need to add flexible__container class to parent class
+function initTextShortenerComponent() {
     console.log("Text shortener!");
+
     let elements = ['.car-title__full-maker', '.car-title__full-name', '.car_card_option'];
+
     $('.flexible__container').css({
         'width': '100%',
         'height': '100%',
@@ -74,4 +75,7 @@ $(document).ready(function () {
             }
         });
     });
-});
+}
+
+// Экспортируйте функцию для использования в других модулях
+module.exports = initTextShortenerComponent;
