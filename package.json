@@ -1,0 +1,29 @@
+{
+  "name": "text-shortener",
+  "version": "1.0.0",
+  "description": "Text Shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Is Good!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenOmKali/TextShortener.git"
+  },
+  "keywords": [
+    "text",
+    "shortener",
+    "text-shortener",
+    "text",
+    "shortener"
+  ],
+  "author": "DenOmKali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenOmKali/TextShortener/issues"
+  },
+  "homepage": "https://github.com/DenOmKali/TextShortener#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
