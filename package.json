@@ -1,5 +1,5 @@
 {
-  "name": "text-shortener",
+  "name": "texts-shortener",
   "version": "1.0.0",
   "description": "Text Shortener",
   "main": "index.js",
